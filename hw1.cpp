@@ -1,7 +1,7 @@
 #include <iostream>
 
  
-  int main ()
+int main ()
  {
   int tree[100];
   for (int i=0; i<100; i++)
